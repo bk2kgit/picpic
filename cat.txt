@@ -1,12 +1,12 @@
 {
-
 "categories":[
- {
-"name":"Marvel",
+{
+"name":"Ironman",
 "count":1
-
+},
+{
+"name":"Naruto",
+"count":1
 }
-
 ]
-
 }
