@@ -2,14 +2,14 @@
 "thumbs":[
 {
 "name":"Ironman",
-"src":"https://i.postimg.cc/W3bCVTYC/ironman.jpg",
+"src":"https://i.postimg.cc/W3bCVTYC/ironman.jpg"
 }
 ],
 
 "pack":[
 {
 "name":"Ironman 1",
-"src":"G",
+"src":"G"
 }
 ]
 
