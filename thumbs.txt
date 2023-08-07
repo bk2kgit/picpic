@@ -1,19 +1,51 @@
 {
 "thumbs":[
 {
-"name":"Ironman",
+"name":"Marvel",
 "src":"https://i.postimg.cc/W3bCVTYC/ironman.jpg"
 }
 ],
 
 "pack":[
 {
-"name":"Ironman 1",
+"name":Marvel 1",
 "src":"G"
 },
 {
-"name":"Ironman 2",
-"src":"W"
+"name":"Marvel 2",
+"src":"G"
+},
+{
+"name":Marvel 3",
+"src":"G"
+},
+{
+"name":Marvel 4",
+"src":"G"
+},
+{
+"name":Marvel 5",
+"src":"G"
+},
+{
+"name":Marvel 6",
+"src":"G"
+},
+{
+"name":Marvel 7",
+"src":"G"
+},
+{
+"name":Marvel 8",
+"src":"G"
+},
+{
+"name":Marvel 9",
+"src":"G"
+},
+{
+"name":Marvel 10",
+"src":"G"
 },
 ]
 
