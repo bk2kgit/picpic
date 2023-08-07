@@ -8,7 +8,7 @@
 
 "pack":[
 {
-"name":Marvel 1",
+"name":"Marvel 1",
 "src":"G"
 },
 {
@@ -16,37 +16,37 @@
 "src":"G"
 },
 {
-"name":Marvel 3",
+"name":"Marvel 3",
 "src":"G"
 },
 {
-"name":Marvel 4",
+"name":"Marvel 4",
 "src":"G"
 },
 {
-"name":Marvel 5",
+"name":"Marvel 5",
 "src":"G"
 },
 {
-"name":Marvel 6",
+"name":"Marvel 6",
 "src":"G"
 },
 {
-"name":Marvel 7",
+"name":"Marvel 7",
 "src":"G"
 },
 {
-"name":Marvel 8",
+"name":"Marvel 8",
 "src":"G"
 },
 {
-"name":Marvel 9",
+"name":"Marvel 9",
 "src":"G"
 },
 {
-"name":Marvel 10",
+"name":"Marvel 10",
 "src":"G"
-},
+}
 ]
 
 }
