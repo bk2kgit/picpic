@@ -3,8 +3,26 @@
 {
 "name":"Marvel",
 "src":"https://i.postimg.cc/W3bCVTYC/ironman.jpg"
+},{
+"name":"DC",
+"src":"https://i.postimg.cc/GhGRD0b6/HD-wallpaper-the-batman-movie-poster-the-batman.jpg"
+},{
+"name":"Nature",
+"src":"https://i.postimg.cc/bw4vh0Nj/HD-wallpaper-flowers-flower-nature.jpg"
+},{
+"name":"Anime",
+"src":"https://i.postimg.cc/kGLQ86v3/HD-wallpaper-luffy-luffy-edit-luffy-fanart-luffy-wallpaoer-one-piece-one-piece-sanji-zoro-zoro.jpg"
+},{
+"name":"Animals",
+"src":"https://i.postimg.cc/zfR1S9rs/HD-wallpaper-cool-cat.jpg"
+},{
+"name":"Cartoons",
+"src":"https://i.postimg.cc/1X1ChjbN/HD-wallpaper-mickey-and-friends-disney.jpg"
+},{
+"name":"Cars",
+"src":"https://i.postimg.cc/nVmGbTFn/HD-wallpaper-supra-love-car-imported-japan-stancenation-toyota-toyota-supra-tuning.jpg"
 }
-],
+], 
 
 "pack":[
 {
@@ -46,7 +64,138 @@
 {
 "name":"Marvel 10",
 "src":"G"
+},
+{
+"name":"Animals 1",
+"src":"G"
+},
+{
+"name":"Animals 2",
+"src":"G"
+},
+{
+"name":"Animals 3",
+"src":"G"
+},
+{
+"name":"Animals 4",
+"src":"G"
+},
+{
+"name":"Cars 1",
+"src":"G"
+},
+{
+"name":"Cars 2",
+"src":"G"
+},
+{
+"name":"Cars 3",
+"src":"G"
+},
+{
+"name":"Cars 4",
+"src":"G"
+},
+{
+"name":"Cartoons 1",
+"src":"G"
+},
+{
+"name":"Cartoons 2",
+"src":"G"
+},
+{
+"name":"Cartoons 3",
+"src":"G"
+},
+{
+"name":"Cartoons 4",
+"src":"G"
+},
+{
+"name":"DC 1",
+"src":"G"
+},
+{
+"name":"DC 2",
+"src":"G"
+},
+{
+"name":"DC 3",
+"src":"G"
+},
+{
+"name":"DC 4",
+"src":"G"
+},
+{
+"name":"Nature 1",
+"src":"G"
+},
+{
+"name":"Nature 2",
+"src":"G"
+},
+{
+"name":"Nature 3",
+"src":"G"
+},
+{
+"name":"Anime 1",
+"src":"G"
+},
+{
+"name":"Anime 2",
+"src":"G"
+},
+{
+"name":"Anime 3",
+"src":"G"
+},
+{
+"name":"Anime 4",
+"src":"G"
+},
+{
+"name":"Anime 5",
+"src":"G"
+},
+{
+"name":"Anime 6",
+"src":"G"
+},
+{
+"name":"Anime 7",
+"src":"G"
+},
+{
+"name":"Movies 1",
+"src":"G"
+},
+{
+"name":"Movies 2",
+"src":"G"
+},
+{
+"name":"Movies 3",
+"src":"G"
+},
+{
+"name":"Movies 4",
+"src":"G"
+},
+{
+"name":"Movies 5",
+"src":"G"
+},
+{
+"name":"Movies 6",
+"src":"G"
+},
+{
+"name":"Movies 7",
+"src":"G"
 }
-]
-
+] 
 }
