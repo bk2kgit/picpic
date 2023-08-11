@@ -4,7 +4,7 @@
 "name":"Marvel",
 "src":"https://i.postimg.cc/W3bCVTYC/ironman.jpg"
 },{
-"name":"DC",
+"name":"Dc",
 "src":"https://i.postimg.cc/GhGRD0b6/HD-wallpaper-the-batman-movie-poster-the-batman.jpg"
 },{
 "name":"Nature",
@@ -114,19 +114,19 @@
 "src":"G"
 },
 {
-"name":"DC 1",
+"name":"Dc 1",
 "src":"G"
 },
 {
-"name":"DC 2",
+"name":"Dc 2",
 "src":"G"
 },
 {
-"name":"DC 3",
+"name":"Dc 3",
 "src":"G"
 },
 {
-"name":"DC 4",
+"name":"Dc 4",
 "src":"G"
 },
 {
