@@ -1,0 +1,43 @@
+**Privacy Policy**
+
+Reels & Story Downloader respects your privacy and is committed to protecting any personal information that you may provide while using our app.
+
+**Information Collection and Use:**
+
+We do not collect any personal information from our users. The app is designed to download reels and stories from social media platforms, and it does not require any personal data from users to function.
+
+**Data Storage:**
+
+Any media files downloaded using Reels & Story Downloader are stored locally on your device. We do not have access to or store any of the downloaded content on our servers.
+
+**Third-party Links:**
+
+Our app may contain links to third-party websites or services. We are not responsible for the privacy practices or the content of such websites or services. We encourage our users to read the privacy statements of these third-party sites.
+
+**Changes to this Privacy Policy:**
+
+We reserve the right to update or change our Privacy Policy at any time. Any changes will be posted on this page.
+
+**Contact Us:**
+
+If you have any questions or concerns about our Privacy Policy, please contact us at [bkappsoff@gmail.com].
+
+**Third-party Services:**
+
+Reels & Story Downloader utilizes Google AdMob for serving advertisements within the app. AdMob may collect and use data for personalized advertising purposes in accordance with its privacy policy.
+
+**Advertising Identifier:**
+
+AdMob may collect and use the advertising identifier from your device for targeted advertising purposes. You can opt out of personalized ads by adjusting your device settings.
+
+**Data Collection by AdMob:**
+
+AdMob may collect certain data such as device information, IP address, and usage data for the purpose of delivering personalized ads and analyzing ad performance.
+
+**Opt-out:**
+
+You can opt out of personalized advertising within the app settings or by adjusting your device settings.
+
+**Third-party Links:**
+
+Our app may contain links to third-party websites or services, including AdMob. We are not responsible for the privacy practices or the content of such websites or services. We encourage our users to read the privacy statements of these third-party sites.
